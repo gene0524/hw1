@@ -18,7 +18,7 @@ _NTHU IPE 107030027_
       data.append(row)
    ```
 
-We can use the code given above to read the data from the csv file.
+   We can use the code given above to read the data from the csv file.
 
 3. Analyze & store data
 
